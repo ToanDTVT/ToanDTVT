@@ -1,4 +1,4 @@
-# Hi there, I'm [Toan] 👋
+# Hi there, Welcome to my github, I'm Toan 👋
 
 ## About Me
 - 🎓 I graduated from **Ho Chi Minh University of Technology**, majoring in **Electronics & Telecommunications Engineering**.
