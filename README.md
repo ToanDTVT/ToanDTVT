@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Toan] 👋
 
-<!--
-**ToanDTVT/ToanDTVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I graduated from [Ho Chi Minh University of Technology], majoring in [Electronics & Telecommunications Engineering].
+- 💻 I’m interested in Embedded Systems | IoT | VLSI | Software Development.
+- 🌱 I’m currently learning about [Makefile] and [How to program STM32 on Linux without IDE].
+- 📫 How to reach me:
+  + Email: [tranquoctoan.dtvt@gmail.com]
+  + LinkedIn: [https://www.linkedin.com/in/toan-tran-488263299/]
 
-Here are some ideas to get you started:
+## Skills
+- Programming: C, C++, Python, JavaScript, Shellscript
+- Technologies: ESP32, STM32, Linux, FreeRTOS
+- Tools: Git, Neovim, VSCode, STM32CubeIDE, ESP-IDF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+- I love [you] <3!
+- My favorite sport is [basketball]!
+- My fun hobbies: [anime], [manga], [draw],... (>.<)!
+
