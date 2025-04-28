@@ -14,7 +14,7 @@
 - ⚙️ Tools: Git, Neovim, VSCode, STM32CubeIDE, ESP-IDF
 
 ## Fun Fact
-- I love __you__ <3!
+- I love __you__ 🥰!
 - My favorite sport is __basketball__ 🏀!
 - My fun hobbies: _anime_, _manga_, _draw_,... (>.<)!
 
