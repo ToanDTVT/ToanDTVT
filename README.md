@@ -9,12 +9,12 @@
   + LinkedIn: __https://www.linkedin.com/in/toan-tran-488263299/__
 
 ## Skills
-- Programming: C, C++, Python, JavaScript, Shellscript
-- Technologies: ESP32, STM32, Linux, FreeRTOS
-- Tools: Git, Neovim, VSCode, STM32CubeIDE, ESP-IDF
+- 💻 Programming: C, C++, Python, JavaScript, Shellscript
+- 🚀 Technologies: ESP32, STM32, Linux, FreeRTOS
+- ⚙️ Tools: Git, Neovim, VSCode, STM32CubeIDE, ESP-IDF
 
 ## Fun Fact
 - I love __you__ <3!
-- My favorite sport is __basketball__!
+- My favorite sport is __basketball__ 🏀!
 - My fun hobbies: _anime_, _manga_, _draw_,... (>.<)!
 
